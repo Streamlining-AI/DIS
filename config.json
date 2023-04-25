@@ -1,0 +1,19 @@
+{
+	"input": [
+	  {
+		  "name": "input_image",
+		  "type" : "image",
+		  "description" : "",
+		  "default" : "https://replicate.delivery/mgxm/3be8696d-cc99-4bd1-9fa4-17b820de9bda/1.jpeg"
+	  }
+  ],
+	"output" : 
+    {
+        "name": "no",
+        "type" : "string"
+    }
+	
+  }
+
+
+  
